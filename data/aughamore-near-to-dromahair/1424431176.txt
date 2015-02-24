@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 550
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"message"},"payload":{"id":680010695189725311,"parent_id":null,"connection_id":680010554475020415,"id_str":"680010695189725311","parent_id_str":null,"connection_id_str":"680010554475020415","type":"message","channel":"com.mdi.services.instantFixII","sender":"356363050331521","recipient":"@@server@@","asset":"356363050331521","b64_payload":"Y2hlY2svMy8zZjNmMWQyMmViNWRhYjc5NDE0MDM3ZDUyZmM2YjMwYi9wYWNrZWREaWZmZXJlbmNlLmYycDNlbmMuZWU=","recorded_at":"2015-02-20T11:19:35Z","received_at":"2015-02-20T11:19:36Z"}}]

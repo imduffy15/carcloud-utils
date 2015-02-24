@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2211
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680002217314353279,"connection_id":680000490313875586,"id_str":"680002217314353279","connection_id_str":"680000490313875586","index":326,"asset":"356363050331521","recorded_at":"2015-02-20T10:44:31Z","recorded_at_ms":"2015-02-20T10:44:31.000Z","received_at":"2015-02-20T10:45:55Z","loc":[-8.40229,54.23135],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAASA=="},"GPS_DIR":{"b64_value":"AABQew=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680002217318547583,"connection_id":680000490313875586,"id_str":"680002217318547583","connection_id_str":"680000490313875586","index":329,"asset":"356363050331521","recorded_at":"2015-02-20T10:44:31Z","recorded_at_ms":"2015-02-20T10:44:31.001Z","received_at":"2015-02-20T10:45:55Z","loc":[-8.40229,54.23135],"fields":{"GPS_DIR":{"b64_value":"AABQdg=="},"MDI_OBD_SPEED":{"b64_value":"AAAASg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680002217318563967,"connection_id":680000490313875586,"id_str":"680002217318563967","connection_id_str":"680000490313875586","index":332,"asset":"356363050331521","recorded_at":"2015-02-20T10:44:32Z","recorded_at_ms":"2015-02-20T10:44:32.000Z","received_at":"2015-02-20T10:45:55Z","loc":[-8.40242,54.23119],"fields":{}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680002217322741887,"connection_id":680000490313875586,"id_str":"680002217322741887","connection_id_str":"680000490313875586","index":333,"asset":"356363050331521","recorded_at":"2015-02-20T10:45:01Z","recorded_at_ms":"2015-02-20T10:45:01.000Z","received_at":"2015-02-20T10:45:55Z","loc":[-8.40305,54.22582],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAATg=="},"GPS_PDOP":{"b64_value":"AAAAAg=="},"GPS_DIR":{"b64_value":"AABA+Q=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680002217322758271,"connection_id":680000490313875586,"id_str":"680002217322758271","connection_id_str":"680000490313875586","index":337,"asset":"356363050331521","recorded_at":"2015-02-20T10:45:01Z","recorded_at_ms":"2015-02-20T10:45:01.001Z","received_at":"2015-02-20T10:45:55Z","loc":[-8.40305,54.22582],"fields":{"GPS_DIR":{"b64_value":"AABAzg=="}}}}]

@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 830
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655068539777974399,"id_str":"655068539777974399","asset":"356363050331521","recorded_at":"2014-12-13T15:27:46Z","recorded_at_ms":"2014-12-13T15:27:46.000Z","received_at":"2014-12-13T15:28:16Z","connection_id":655058203205173375,"index":877,"loc":[-8.29824,54.01613],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAYA=="},"GPS_DIR":{"b64_value":"AABw9A=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655068539777990783,"id_str":"655068539777990783","asset":"356363050331521","recorded_at":"2014-12-13T15:27:47Z","recorded_at_ms":"2014-12-13T15:27:47.000Z","received_at":"2014-12-13T15:28:16Z","connection_id":655058203205173375,"index":880,"loc":[-8.29863,54.01621],"fields":{"GPS_PDOP":{"b64_value":"AAAAAg=="},"GPS_DIR":{"b64_value":"AABw5Q=="}}}}]

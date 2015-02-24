@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 647
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"message"},"payload":{"id":654980793956827263,"thread_id":null,"parent_id":654980793948438655,"id_str":"654980793956827263","thread_id_str":"","parent_id_str":"654980793948438655","type":"message","channel":"com.mdi.dynamic_channel_configuration","sender":"@@server@@","recipient":"356363050331521","asset":"356363050331521","b64_payload":"g9oAH2NvbS5tZGkuc2VydmljZXMuZHJpdmVyQmVoYXZpb3LNBknaAB5jb20ubWRpLnNlcnZpY2VzLnVwZGF0ZU1hbmFnZXLNBkjaACVjb20ubWRpLnNlcnZpY2VzLmNvbmZpZ3VyYXRpb25NYW5hZ2VyzQZH","recorded_at":"2014-12-13T09:39:35Z","received_at":"2014-12-13T09:39:35Z","connection_id":654980767557877890}}]

@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 286
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"presence"},"payload":{"id":680012072838234239,"connection_id":680012065166852226,"id_str":"680012072838234239","connection_id_str":"680012065166852226","asset":"356363050331521","time":"2015-02-20T11:25:05Z","type":"connect","reason":"ppp_lost"}}]

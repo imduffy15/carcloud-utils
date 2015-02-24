@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1706
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655072598408839295,"id_str":"655072598408839295","asset":"356363050331521","recorded_at":"2014-12-13T15:43:42Z","recorded_at_ms":"2014-12-13T15:43:42.000Z","received_at":"2014-12-13T15:44:23Z","connection_id":655058203205173375,"index":1170,"loc":[-8.48632,54.18388],"fields":{"BEHAVE_UNIQUE_ID":{"b64_value":"AAABmA=="},"BEHAVE_ID":{"b64_value":"AAAACw=="},"BEHAVE_ELAPSED":{"b64_value":"AAAh2g=="},"BEHAVE_ACC_Z_END":{"b64_value":"///8FA=="},"BEHAVE_ACC_Z_PEAK":{"b64_value":"///8Iw=="},"BEHAVE_ACC_Z_BEGIN":{"b64_value":"///7+Q=="},"BEHAVE_ACC_Y_END":{"b64_value":"AAAAGg=="},"BEHAVE_ACC_Y_PEAK":{"b64_value":"AAAAOg=="},"BEHAVE_ACC_Y_BEGIN":{"b64_value":"AAAAfQ=="},"BEHAVE_ACC_X_END":{"b64_value":"AAAAsQ=="},"BEHAVE_ACC_X_PEAK":{"b64_value":"AAABEA=="},"BEHAVE_ACC_X_BEGIN":{"b64_value":"AAAAtA=="},"BEHAVE_GPS_HEADING_END":{"b64_value":"AAVPBg=="},"BEHAVE_GPS_HEADING_PEAK":{"b64_value":"AAVVMg=="},"BEHAVE_GPS_HEADING_BEGIN":{"b64_value":"AABBeA=="},"BEHAVE_GPS_SPEED_END":{"b64_value":"AAC2ag=="},"BEHAVE_GPS_SPEED_PEAK":{"b64_value":"AACTsw=="},"BEHAVE_GPS_SPEED_BEGIN":{"b64_value":"AABsng=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655072598413017215,"id_str":"655072598413017215","asset":"356363050331521","recorded_at":"2014-12-13T15:43:45Z","recorded_at_ms":"2014-12-13T15:43:45.000Z","received_at":"2014-12-13T15:44:23Z","connection_id":655058203205173375,"index":1189,"loc":[-8.48649,54.18443],"fields":{"MDI_RECORD_REASON":{"b64_value":"Mzox"},"MDI_OBD_RPM":{"b64_value":"AAAMiA=="},"MDI_OBD_SPEED":{"b64_value":"AAAATw=="},"GPS_DIR":{"b64_value":"AACIag=="},"GPS_SPEED":{"b64_value":"AACfSA=="}}}}]

@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1921
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":654979133612228735,"id_str":"654979133612228735","asset":"356363050331521","recorded_at":"2014-12-13T09:31:42Z","recorded_at_ms":"2014-12-13T09:31:42.000Z","received_at":"2014-12-13T09:32:59Z","connection_id":654976865424900226,"index":31,"loc":[-6.25701,53.38368],"fields":{"MDI_RECORD_REASON":{"b64_value":"MDow"},"DIO_IGNITION":{"b64_value":"AA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654979133616423039,"id_str":"654979133616423039","asset":"356363050331521","recorded_at":"2014-12-13T09:31:43Z","recorded_at_ms":"2014-12-13T09:31:43.000Z","received_at":"2014-12-13T09:32:59Z","connection_id":654976865424900226,"index":34,"loc":[-6.25701,53.38368],"fields":{"MDI_RPM_AVERAGE_RANGE_1":{"b64_value":"AAACvw=="},"MDI_IDLE_JOURNEY":{"b64_value":"AAABlw=="},"MDI_JOURNEY_TIME":{"b64_value":"AAABlw=="},"MDI_OBD_FUEL":{"b64_value":"AAOiUg=="},"MDI_EXT_BATT_VOLTAGE":{"b64_value":"AAAuYQ=="},"MDI_RECORD_REASON":{"b64_value":"NTow"},"MDI_VEHICLE_STATE":{"b64_value":"Mjox"}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654979133616439423,"id_str":"654979133616439423","asset":"356363050331521","recorded_at":"2014-12-13T09:31:44Z","recorded_at_ms":"2014-12-13T09:31:44.000Z","received_at":"2014-12-13T09:32:59Z","connection_id":654976865424900226,"index":42,"loc":[-6.25701,53.38368],"fields":{"MDI_RECORD_REASON":{"b64_value":"Njow"}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654979133620617343,"id_str":"654979133620617343","asset":"356363050331521","recorded_at":"2014-12-13T09:32:03Z","recorded_at_ms":"2014-12-13T09:32:03.000Z","received_at":"2014-12-13T09:32:59Z","connection_id":654976865424900226,"index":44,"loc":[-6.25701,53.38368],"fields":{"MDI_RECORD_REASON":{"b64_value":"MTI6MQ=="},"MDI_EXT_BATT_VOLTAGE":{"b64_value":"AAAugA=="},"MDI_EXT_BATT_LOW":{"b64_value":"AQ=="}}}}]

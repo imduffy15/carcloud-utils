@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 286
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"presence"},"payload":{"id":680007947455037567,"connection_id":680007916660457593,"id_str":"680007947455037567","connection_id_str":"680007916660457593","asset":"356363050331521","time":"2015-02-20T11:08:41Z","type":"connect","reason":"idle_out"}}]

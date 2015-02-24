@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1756
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"message"},"payload":{"id":681164413260005503,"parent_id":681164413251616895,"connection_id":681164377453232249,"id_str":"681164413260005503","parent_id_str":"681164413251616895","connection_id_str":"681164377453232249","type":"message","channel":"com.mdi.dynamic_channel_configuration","sender":"@@server@@","recipient":"356363050331521","asset":"356363050331521","b64_payload":"g9oAHmNvbS5tZGkuc2VydmljZXMudXBkYXRlTWFuYWdlcs0K0NoAHWNvbS5tZGkuc2VydmljZXMuaW5zdGFudEZpeElJzQrP2gAlY29tLm1kaS5zZXJ2aWNlcy5jb25maWd1cmF0aW9uTWFuYWdlcs0Kzg==","recorded_at":"2015-02-23T15:44:04Z","received_at":"2015-02-23T15:44:04Z"}},{"meta":{"account":"municio","event":"message"},"payload":{"id":681164417181679743,"parent_id":null,"connection_id":681164377453232249,"id_str":"681164417181679743","parent_id_str":null,"connection_id_str":"681164377453232249","type":"message","channel":"com.mdi.dynamic_channel_configuration","sender":"356363050331521","recipient":"@@server@@","asset":"356363050331521","b64_payload":"g6hzZXJ2aWNlc5G/Y29tLm1kaS5zZXJ2aWNlcy5kcml2ZXJCZWhhdmlvcqd2ZXJzaW9uAaJvcKxnZXRzZXJ2aWNlaWQ=","recorded_at":"2015-02-23T15:44:05Z","received_at":"2015-02-23T15:44:05Z"}},{"meta":{"account":"municio","event":"message"},"payload":{"id":681164417190068351,"parent_id":681164417181679743,"connection_id":681164377453232249,"id_str":"681164417190068351","parent_id_str":"681164417181679743","connection_id_str":"681164377453232249","type":"message","channel":"com.mdi.dynamic_channel_configuration","sender":"@@server@@","recipient":"356363050331521","asset":"356363050331521","b64_payload":"gdoAH2NvbS5tZGkuc2VydmljZXMuZHJpdmVyQmVoYXZpb3LNCtE=","recorded_at":"2015-02-23T15:44:05Z","received_at":"2015-02-23T15:44:05Z"}}]

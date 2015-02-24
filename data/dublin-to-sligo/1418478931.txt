@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2322
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655045172408631423,"id_str":"655045172408631423","asset":"356363050331521","recorded_at":"2014-12-13T13:54:30Z","recorded_at_ms":"2014-12-13T13:54:30.000Z","received_at":"2014-12-13T13:55:24Z","connection_id":655031533840629881,"index":657,"loc":[-7.21863,53.49504],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAYA=="},"GPS_DIR":{"b64_value":"AAByeg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655045172412809343,"id_str":"655045172412809343","asset":"356363050331521","recorded_at":"2014-12-13T13:54:30Z","recorded_at_ms":"2014-12-13T13:54:30.001Z","received_at":"2014-12-13T13:55:24Z","connection_id":655031533840629881,"index":660,"loc":[-7.21863,53.49504],"fields":{"GPS_DIR":{"b64_value":"AAByxg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655045172417003647,"id_str":"655045172417003647","asset":"356363050331521","recorded_at":"2014-12-13T13:54:31Z","recorded_at_ms":"2014-12-13T13:54:31.000Z","received_at":"2014-12-13T13:55:24Z","connection_id":655031533840629881,"index":662,"loc":[-7.219,53.49515],"fields":{}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655045172417020031,"id_str":"655045172417020031","asset":"356363050331521","recorded_at":"2014-12-13T13:54:57Z","recorded_at_ms":"2014-12-13T13:54:57.000Z","received_at":"2014-12-13T13:55:24Z","connection_id":655031533840629881,"index":663,"loc":[-7.22827,53.49783],"fields":{"MDI_RPM_AVERAGE":{"b64_value":"AAAOlw=="},"MDI_RPM_MIN":{"b64_value":"AAAM1w=="},"MDI_RPM_MAX":{"b64_value":"AAAPeg=="},"MDI_RECORD_REASON":{"b64_value":"Mzow"},"MDI_OBD_RPM":{"b64_value":"AAAK7w=="},"MDI_OBD_SPEED":{"b64_value":"AAAAWQ=="},"GPS_DIR":{"b64_value":"AAB1vg=="},"GPS_SPEED":{"b64_value":"AAC6lQ=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655045172421197951,"id_str":"655045172421197951","asset":"356363050331521","recorded_at":"2014-12-13T13:55:09Z","recorded_at_ms":"2014-12-13T13:55:09.000Z","received_at":"2014-12-13T13:55:24Z","connection_id":655031533840629881,"index":672,"loc":[-7.23198,53.4996],"fields":{"MDI_RECORD_REASON":{"b64_value":"Mzox"},"MDI_OBD_RPM":{"b64_value":"AAAMHw=="},"MDI_OBD_SPEED":{"b64_value":"AAAAYw=="},"GPS_DIR":{"b64_value":"AAB5GQ=="},"GPS_SPEED":{"b64_value":"AADRQQ=="}}}}]

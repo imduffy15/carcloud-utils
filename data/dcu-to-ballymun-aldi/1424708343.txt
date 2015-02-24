@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2363
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":681173216256868479,"connection_id":681173019439136898,"id_str":"681173216256868479","connection_id_str":"681173019439136898","index":6,"asset":"356363050331521","recorded_at":"2015-02-23T16:17:20Z","recorded_at_ms":"2015-02-23T16:17:20.000Z","received_at":"2015-02-23T16:19:03Z","fields":{"MDI_RECORD_REASON":{"b64_value":"NDo4"},"GPS_PDOP":{"b64_value":"AAAAAA=="},"GPRMC_VALID":{"b64_value":"Vg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":681173216261062783,"connection_id":681173019439136898,"id_str":"681173216261062783","connection_id_str":"681173019439136898","index":13,"asset":"356363050331521","recorded_at":"2015-02-23T16:17:20Z","recorded_at_ms":"2015-02-23T16:17:20.002Z","received_at":"2015-02-23T16:19:03Z","fields":{"MDI_RECORD_REASON":{"b64_value":"NTow"},"MDI_VEHICLE_STATE":{"b64_value":"Mjox"}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":681173216261046399,"connection_id":681173019439136898,"id_str":"681173216261046399","connection_id_str":"681173019439136898","index":10,"asset":"356363050331521","recorded_at":"2015-02-23T16:17:20Z","recorded_at_ms":"2015-02-23T16:17:20.001Z","received_at":"2015-02-23T16:19:03Z","fields":{"MDI_RECORD_REASON":{"b64_value":"MDow"},"DIO_IGNITION":{"b64_value":"AA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":681173216265240703,"connection_id":681173019439136898,"id_str":"681173216265240703","connection_id_str":"681173019439136898","index":16,"asset":"356363050331521","recorded_at":"2015-02-23T16:18:44Z","recorded_at_ms":"2015-02-23T16:18:44.000Z","received_at":"2015-02-23T16:19:03Z","loc":[-6.25124,53.39846],"fields":{"MDI_RECORD_REASON":{"b64_value":"MDox"},"GPS_PDOP":{"b64_value":"AAAAAg=="},"DIO_IGNITION":{"b64_value":"AQ=="},"GPS_DIR":{"b64_value":"AAAAAA=="},"GPRMC_VALID":{"b64_value":"QQ=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":681173216269435007,"connection_id":681173019439136898,"id_str":"681173216269435007","connection_id_str":"681173019439136898","index":22,"asset":"356363050331521","recorded_at":"2015-02-23T16:18:44Z","recorded_at_ms":"2015-02-23T16:18:44.001Z","received_at":"2015-02-23T16:19:03Z","loc":[-6.25124,53.39846],"fields":{"MDI_RECORD_REASON":{"b64_value":"NTox"},"MDI_VEHICLE_STATE":{"b64_value":"MToy"}}}}]

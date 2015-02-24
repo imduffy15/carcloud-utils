@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 792
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"message"},"payload":{"id":654828007130660991,"thread_id":null,"parent_id":654827995411775615,"id_str":"654828007130660991","thread_id_str":"","parent_id_str":"654827995411775615","type":"message","channel":"com.mdi.services.updateManager","sender":"356363050331521","recipient":"@@server@@","asset":"356363050331521","b64_payload":"gqpjb21wb25lbnRzlIKkbmFtZaRjb3Jlp3ZlcnNpb265TVVOSUNfQzRET05HTEUtMy4wMTA0MTAwMYKkbmFtZdoAIGNvbS5tZGkuYXBwbGljYXRpb25zLmNyYXNoc2Vuc29yp3ZlcnNpb26kMS4xMoKkbmFtZdoAIGNvbS5tZGkuYXBwbGljYXRpb25zLmVhc3ljb25uZWN0p3ZlcnNpb26jMS45gqRuYW1l2gAkY29tLm1kaS5hcHBsaWNhdGlvbnMuc2Vuc29yc3JlY29yZGVyp3ZlcnNpb26nMS4wMDAwMKF2AQ==","recorded_at":"2014-12-12T23:32:35Z","received_at":"2014-12-12T23:32:28Z","connection_id":654827961689571449}}]

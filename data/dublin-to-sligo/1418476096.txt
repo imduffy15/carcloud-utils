@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1219
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655033282001371263,"id_str":"655033282001371263","asset":"356363050331521","recorded_at":"2014-12-13T13:06:30Z","recorded_at_ms":"2014-12-13T13:06:30.000Z","received_at":"2014-12-13T13:08:09Z","connection_id":655031533840629881,"index":236,"loc":[-6.26518,53.38867],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAAA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655033282001387647,"id_str":"655033282001387647","asset":"356363050331521","recorded_at":"2014-12-13T13:06:31Z","recorded_at_ms":"2014-12-13T13:06:31.000Z","received_at":"2014-12-13T13:08:09Z","connection_id":655031533840629881,"index":238,"loc":[-6.26518,53.38867],"fields":{}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655033282005565567,"id_str":"655033282005565567","asset":"356363050331521","recorded_at":"2014-12-13T13:06:50Z","recorded_at_ms":"2014-12-13T13:06:50.000Z","received_at":"2014-12-13T13:08:09Z","connection_id":655031533840629881,"index":239,"loc":[-6.26468,53.3896],"fields":{"MDI_RECORD_REASON":{"b64_value":"Njow"},"GPS_DIR":{"b64_value":"AAAGHw=="},"GPS_SPEED":{"b64_value":"AABX6Q=="},"MDI_VEHICLE_STATE":{"b64_value":"Mjow"}}}}]

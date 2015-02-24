@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 910
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655067526811615359,"id_str":"655067526811615359","asset":"356363050331521","recorded_at":"2014-12-13T15:23:03Z","recorded_at_ms":"2014-12-13T15:23:03.000Z","received_at":"2014-12-13T15:24:14Z","connection_id":655058203205173375,"index":849,"loc":[-8.24284,53.9698],"fields":{"GPS_DIR":{"b64_value":"AABpVQ=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655067526811631743,"id_str":"655067526811631743","asset":"356363050331521","recorded_at":"2014-12-13T15:23:49Z","recorded_at_ms":"2014-12-13T15:23:49.000Z","received_at":"2014-12-13T15:24:14Z","connection_id":655058203205173375,"index":851,"loc":[-8.26134,53.96935],"fields":{"MDI_RECORD_REASON":{"b64_value":"Mzow"},"MDI_OBD_RPM":{"b64_value":"AAAK2A=="},"MDI_OBD_SPEED":{"b64_value":"AAAAWA=="},"GPS_DIR":{"b64_value":"AABsmw=="},"GPS_SPEED":{"b64_value":"AAC7FA=="}}}}]

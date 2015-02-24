@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1663
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655066510766637183,"id_str":"655066510766637183","asset":"356363050331521","recorded_at":"2014-12-13T15:18:01Z","recorded_at_ms":"2014-12-13T15:18:01.000Z","received_at":"2014-12-13T15:20:12Z","connection_id":655058203205173375,"index":807,"loc":[-8.13415,53.94905],"fields":{"GPS_DIR":{"b64_value":"AABmeQ=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655066510770831487,"id_str":"655066510770831487","asset":"356363050331521","recorded_at":"2014-12-13T15:18:40Z","recorded_at_ms":"2014-12-13T15:18:40.000Z","received_at":"2014-12-13T15:20:12Z","connection_id":655058203205173375,"index":809,"loc":[-8.14863,53.95004],"fields":{"GPS_DIR":{"b64_value":"AAB2vw=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655066510770847871,"id_str":"655066510770847871","asset":"356363050331521","recorded_at":"2014-12-13T15:18:41Z","recorded_at_ms":"2014-12-13T15:18:41.000Z","received_at":"2014-12-13T15:20:12Z","connection_id":655058203205173375,"index":811,"loc":[-8.14896,53.95017],"fields":{"GPS_DIR":{"b64_value":"AAB3NA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655066510775025791,"id_str":"655066510775025791","asset":"356363050331521","recorded_at":"2014-12-13T15:19:08Z","recorded_at_ms":"2014-12-13T15:19:08.000Z","received_at":"2014-12-13T15:20:12Z","connection_id":655058203205173375,"index":813,"loc":[-8.15704,53.95453],"fields":{"MDI_RECORD_REASON":{"b64_value":"Mzox"},"MDI_OBD_RPM":{"b64_value":"AAAMxg=="},"MDI_OBD_SPEED":{"b64_value":"AAAAaA=="},"GPS_DIR":{"b64_value":"AAB6Dw=="},"GPS_SPEED":{"b64_value":"AADZZg=="}}}}]

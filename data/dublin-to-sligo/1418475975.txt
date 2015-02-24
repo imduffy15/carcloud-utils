@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 838
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":655032775027458175,"id_str":"655032775027458175","asset":"356363050331521","recorded_at":"2014-12-13T13:05:00Z","recorded_at_ms":"2014-12-13T13:05:00.000Z","received_at":"2014-12-13T13:06:09Z","connection_id":655031533840629881,"index":225,"loc":[-6.26555,53.38369],"fields":{}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":655032775031652479,"id_str":"655032775031652479","asset":"356363050331521","recorded_at":"2014-12-13T13:05:04Z","recorded_at_ms":"2014-12-13T13:05:04.000Z","received_at":"2014-12-13T13:06:09Z","connection_id":655031533840629881,"index":226,"loc":[-6.26543,53.38417],"fields":{"MDI_RECORD_REASON":{"b64_value":"Njow"},"GPS_DIR":{"b64_value":"AAADIQ=="},"GPS_SPEED":{"b64_value":"AABocw=="},"MDI_VEHICLE_STATE":{"b64_value":"Mjow"}}}}]

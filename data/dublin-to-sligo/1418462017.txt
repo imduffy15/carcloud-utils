@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2085
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":654974229183217791,"id_str":"654974229183217791","asset":"356363050331521","recorded_at":"2014-12-13T09:11:58Z","recorded_at_ms":"2014-12-13T09:11:58.000Z","received_at":"2014-12-13T09:13:30Z","connection_id":654974004813103234,"index":7,"loc":[-6.25698,53.3836],"fields":{"MDI_RECORD_REASON":{"b64_value":"NDoxMjg="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654974229187395711,"id_str":"654974229187395711","asset":"356363050331521","recorded_at":"2014-12-13T09:12:06Z","recorded_at_ms":"2014-12-13T09:12:06.000Z","received_at":"2014-12-13T09:13:30Z","connection_id":654974004813103234,"index":9,"loc":[-6.25692,53.38374],"fields":{"GPS_PDOP":{"b64_value":"AAAAPA=="},"GPRMC_VALID":{"b64_value":"QQ=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654974229187412095,"id_str":"654974229187412095","asset":"356363050331521","recorded_at":"2014-12-13T09:12:06Z","recorded_at_ms":"2014-12-13T09:12:06.001Z","received_at":"2014-12-13T09:13:30Z","connection_id":654974004813103234,"index":12,"loc":[-6.25692,53.38374],"fields":{"GPS_PDOP":{"b64_value":"AAAAAg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654974229191590015,"id_str":"654974229191590015","asset":"356363050331521","recorded_at":"2014-12-13T09:12:18Z","recorded_at_ms":"2014-12-13T09:12:18.000Z","received_at":"2014-12-13T09:13:30Z","connection_id":654974004813103234,"index":14,"loc":[-6.2569,53.38384],"fields":{"MDI_RECORD_REASON":{"b64_value":"Nzox"},"GPS_SPEED":{"b64_value":"AAABYA=="},"MDI_VEHICLE_STATE":{"b64_value":"MToz"}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":654974229195784319,"id_str":"654974229195784319","asset":"356363050331521","recorded_at":"2014-12-13T09:12:54Z","recorded_at_ms":"2014-12-13T09:12:54.000Z","received_at":"2014-12-13T09:13:30Z","connection_id":654974004813103234,"index":18,"loc":[-6.257,53.38369],"fields":{"MDI_RECORD_REASON":{"b64_value":"Nzow"},"GPS_SPEED":{"b64_value":"AAAAAA=="},"MDI_VEHICLE_STATE":{"b64_value":"Mzox"}}}}]
