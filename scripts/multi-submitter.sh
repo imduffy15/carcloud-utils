@@ -3,7 +3,7 @@
 if [ $# -lt 2 ]
   then
     echo "No arguments supplied"
-    echo "Usage: submitter.sh <url to POST to> <folder containing processed files>"
+    echo "Usage: multi-submitter.sh <url to POST to> <folder containing processed files>"
     exit 1
 fi
 
