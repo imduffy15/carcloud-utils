@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2119
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680824231067385983,"connection_id":680798704281583743,"id_str":"680824231067385983","connection_id_str":"680798704281583743","index":981,"asset":"356363050331521","recorded_at":"2015-02-22T17:10:50Z","recorded_at_ms":"2015-02-22T17:10:50.000Z","received_at":"2015-02-22T17:12:18Z","loc":[-7.30288,53.52452],"fields":{"GPS_DIR":{"b64_value":"AAAyRg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680824231071580287,"connection_id":680798704281583743,"id_str":"680824231071580287","connection_id_str":"680798704281583743","index":983,"asset":"356363050331521","recorded_at":"2015-02-22T17:11:28Z","recorded_at_ms":"2015-02-22T17:11:28.000Z","received_at":"2015-02-22T17:12:18Z","loc":[-7.29024,53.52074],"fields":{"BEHAVE_UNIQUE_ID":{"b64_value":"AAAAsQ=="},"BEHAVE_ID":{"b64_value":"AAAADA=="},"BEHAVE_ELAPSED":{"b64_value":"AAAKag=="},"BEHAVE_ACC_Z_PEAK":{"b64_value":"///75g=="},"BEHAVE_ACC_Z_BEGIN":{"b64_value":"///7/w=="},"BEHAVE_ACC_Y_END":{"b64_value":"////TQ=="},"BEHAVE_ACC_Y_PEAK":{"b64_value":"////Ng=="},"BEHAVE_ACC_Y_BEGIN":{"b64_value":"////Sw=="},"BEHAVE_ACC_X_END":{"b64_value":"////9Q=="},"BEHAVE_ACC_X_PEAK":{"b64_value":"////zw=="},"BEHAVE_ACC_X_BEGIN":{"b64_value":"////aQ=="},"BEHAVE_GPS_HEADING_END":{"b64_value":"AADGZg=="},"BEHAVE_GPS_HEADING_PEAK":{"b64_value":"AAEwEA=="},"BEHAVE_GPS_HEADING_BEGIN":{"b64_value":"AAFqTg=="},"BEHAVE_GPS_SPEED_END":{"b64_value":"AAAsCg=="},"BEHAVE_GPS_SPEED_PEAK":{"b64_value":"AAAw9g=="},"BEHAVE_GPS_SPEED_BEGIN":{"b64_value":"AAAyLw=="},"MDI_OBD_SPEED":{"b64_value":"AAAAFw=="},"GPS_DIR":{"b64_value":"AAAeaA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680824231071596671,"connection_id":680798704281583743,"id_str":"680824231071596671","connection_id_str":"680798704281583743","index":1003,"asset":"356363050331521","recorded_at":"2015-02-22T17:11:29Z","recorded_at_ms":"2015-02-22T17:11:29.000Z","received_at":"2015-02-22T17:12:18Z","loc":[-7.29016,53.52075],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAFQ=="},"GPS_DIR":{"b64_value":"AAAa7Q=="}}}}]

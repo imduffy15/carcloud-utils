@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1129
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680837271586340991,"connection_id":680798704281583743,"id_str":"680837271586340991","connection_id_str":"680798704281583743","index":1225,"asset":"356363050331521","recorded_at":"2015-02-22T18:02:27Z","recorded_at_ms":"2015-02-22T18:02:27.000Z","received_at":"2015-02-22T18:04:07Z","loc":[-6.29506,53.34823],"fields":{"BEHAVE_UNIQUE_ID":{"b64_value":"AAAAtA=="},"BEHAVE_ELAPSED":{"b64_value":"AAALdQ=="},"BEHAVE_ACC_Z_END":{"b64_value":"///7+g=="},"BEHAVE_ACC_Z_PEAK":{"b64_value":"///78g=="},"BEHAVE_ACC_Y_END":{"b64_value":"////Uw=="},"BEHAVE_ACC_Y_PEAK":{"b64_value":"///+4A=="},"BEHAVE_ACC_Y_BEGIN":{"b64_value":"////SA=="},"BEHAVE_ACC_X_END":{"b64_value":"AAAAhg=="},"BEHAVE_ACC_X_PEAK":{"b64_value":"AAAAEA=="},"BEHAVE_ACC_X_BEGIN":{"b64_value":"////wg=="},"BEHAVE_GPS_HEADING_END":{"b64_value":"AABc2g=="},"BEHAVE_GPS_HEADING_PEAK":{"b64_value":"AADPqA=="},"BEHAVE_GPS_HEADING_BEGIN":{"b64_value":"AAFHWA=="},"BEHAVE_GPS_SPEED_END":{"b64_value":"AAAo2Q=="},"BEHAVE_GPS_SPEED_PEAK":{"b64_value":"AAAinw=="},"BEHAVE_GPS_SPEED_BEGIN":{"b64_value":"AAAsaA=="}}}}]

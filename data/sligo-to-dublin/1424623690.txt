@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 459
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680818155194417279,"connection_id":680798704281583743,"id_str":"680818155194417279","connection_id_str":"680798704281583743","index":851,"asset":"356363050331521","recorded_at":"2015-02-22T16:46:32Z","recorded_at_ms":"2015-02-22T16:46:32.000Z","received_at":"2015-02-22T16:48:10Z","loc":[-7.64864,53.70226],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAVw=="},"GPS_DIR":{"b64_value":"AAAoqQ=="}}}}]

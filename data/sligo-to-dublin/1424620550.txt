@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2086
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680804986996654207,"connection_id":680798704281583743,"id_str":"680804986996654207","connection_id_str":"680798704281583743","index":386,"asset":"356363050331521","recorded_at":"2015-02-22T15:54:02Z","recorded_at_ms":"2015-02-22T15:54:02.000Z","received_at":"2015-02-22T15:55:50Z","loc":[-8.33716,54.03559],"fields":{"GPS_DIR":{"b64_value":"AABKkQ=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680804986996670591,"connection_id":680798704281583743,"id_str":"680804986996670591","connection_id_str":"680798704281583743","index":388,"asset":"356363050331521","recorded_at":"2015-02-22T15:54:46Z","recorded_at_ms":"2015-02-22T15:54:46.000Z","received_at":"2015-02-22T15:55:50Z","loc":[-8.33664,54.02488],"fields":{"GPS_DIR":{"b64_value":"AAA6+Q=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680804987000848511,"connection_id":680798704281583743,"id_str":"680804987000848511","connection_id_str":"680798704281583743","index":390,"asset":"356363050331521","recorded_at":"2015-02-22T15:54:47Z","recorded_at_ms":"2015-02-22T15:54:47.000Z","received_at":"2015-02-22T15:55:50Z","loc":[-8.33643,54.02467],"fields":{"GPS_DIR":{"b64_value":"AAA6og=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680804987005042815,"connection_id":680798704281583743,"id_str":"680804987005042815","connection_id_str":"680798704281583743","index":392,"asset":"356363050331521","recorded_at":"2015-02-22T15:55:20Z","recorded_at_ms":"2015-02-22T15:55:20.000Z","received_at":"2015-02-22T15:55:50Z","loc":[-8.32592,54.01945],"fields":{"GPS_DIR":{"b64_value":"AAAq/w=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680804987005059199,"connection_id":680798704281583743,"id_str":"680804987005059199","connection_id_str":"680798704281583743","index":394,"asset":"356363050331521","recorded_at":"2015-02-22T15:55:21Z","recorded_at_ms":"2015-02-22T15:55:21.000Z","received_at":"2015-02-22T15:55:50Z","loc":[-8.32552,54.01937],"fields":{"GPS_DIR":{"b64_value":"AAAqKw=="}}}}]

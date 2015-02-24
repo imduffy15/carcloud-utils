@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 1628
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680816635623243903,"connection_id":680798704281583743,"id_str":"680816635623243903","connection_id_str":"680798704281583743","index":809,"asset":"356363050331521","recorded_at":"2015-02-22T16:40:30Z","recorded_at_ms":"2015-02-22T16:40:30.000Z","received_at":"2015-02-22T16:42:07Z","loc":[-7.76437,53.72336],"fields":{"GPS_DIR":{"b64_value":"AAAzmg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680816635627438207,"connection_id":680798704281583743,"id_str":"680816635627438207","connection_id_str":"680798704281583743","index":811,"asset":"356363050331521","recorded_at":"2015-02-22T16:41:16Z","recorded_at_ms":"2015-02-22T16:41:16.000Z","received_at":"2015-02-22T16:42:07Z","loc":[-7.75534,53.71959],"fields":{"BEHAVE_UNIQUE_ID":{"b64_value":"AAAArg=="},"BEHAVE_ID":{"b64_value":"AAAADA=="},"BEHAVE_ELAPSED":{"b64_value":"AAAMwg=="},"BEHAVE_ACC_Z_END":{"b64_value":"///7+g=="},"BEHAVE_ACC_Z_PEAK":{"b64_value":"///8Ag=="},"BEHAVE_ACC_Z_BEGIN":{"b64_value":"///8Bw=="},"BEHAVE_ACC_Y_END":{"b64_value":"////Tw=="},"BEHAVE_ACC_Y_PEAK":{"b64_value":"////Gg=="},"BEHAVE_ACC_Y_BEGIN":{"b64_value":"////SQ=="},"BEHAVE_ACC_X_END":{"b64_value":"AAAAiw=="},"BEHAVE_ACC_X_PEAK":{"b64_value":"AAAArw=="},"BEHAVE_ACC_X_BEGIN":{"b64_value":"AAAApQ=="},"BEHAVE_GPS_HEADING_END":{"b64_value":"AAGpeA=="},"BEHAVE_GPS_HEADING_PEAK":{"b64_value":"AAHY2g=="},"BEHAVE_GPS_HEADING_BEGIN":{"b64_value":"AAIiDg=="},"BEHAVE_GPS_SPEED_END":{"b64_value":"AAB0qQ=="},"BEHAVE_GPS_SPEED_PEAK":{"b64_value":"AABwtQ=="},"BEHAVE_GPS_SPEED_BEGIN":{"b64_value":"AABjaQ=="}}}}]

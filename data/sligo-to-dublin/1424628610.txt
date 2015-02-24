@@ -1,0 +1,12 @@
+Array
+(
+    [Content-Type] => application/json
+    [Host] => ianduffy.ie
+    [User-Agent] => EventMachine HttpClient
+    [Content-Length] => 2186
+)
+
+
+
+
+[{"meta":{"account":"municio","event":"track"},"payload":{"id":680838790603866239,"connection_id":680798704281583743,"id_str":"680838790603866239","connection_id_str":"680798704281583743","index":1314,"asset":"356363050331521","recorded_at":"2015-02-22T18:07:49Z","recorded_at_ms":"2015-02-22T18:07:49.000Z","received_at":"2015-02-22T18:10:09Z","loc":[-6.27279,53.36093],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAFA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680838790608060543,"connection_id":680798704281583743,"id_str":"680838790608060543","connection_id_str":"680798704281583743","index":1316,"asset":"356363050331521","recorded_at":"2015-02-22T18:07:55Z","recorded_at_ms":"2015-02-22T18:07:55.000Z","received_at":"2015-02-22T18:10:09Z","loc":[-6.27279,53.36134],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAJA=="},"GPS_DIR":{"b64_value":"AACMCw=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680838790612254847,"connection_id":680798704281583743,"id_str":"680838790612254847","connection_id_str":"680798704281583743","index":1319,"asset":"356363050331521","recorded_at":"2015-02-22T18:07:56Z","recorded_at_ms":"2015-02-22T18:07:56.000Z","received_at":"2015-02-22T18:10:09Z","loc":[-6.27279,53.36143],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAJw=="},"GPS_DIR":{"b64_value":"AACMUg=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680838790612271231,"connection_id":680798704281583743,"id_str":"680838790612271231","connection_id_str":"680798704281583743","index":1322,"asset":"356363050331521","recorded_at":"2015-02-22T18:09:26Z","recorded_at_ms":"2015-02-22T18:09:26.000Z","received_at":"2015-02-22T18:10:09Z","loc":[-6.27266,53.36738],"fields":{"MDI_OBD_SPEED":{"b64_value":"AAAAAA=="},"GPS_DIR":{"b64_value":"AACBxA=="}}}},{"meta":{"account":"municio","event":"track"},"payload":{"id":680838790616449151,"connection_id":680798704281583743,"id_str":"680838790616449151","connection_id_str":"680798704281583743","index":1325,"asset":"356363050331521","recorded_at":"2015-02-22T18:09:27Z","recorded_at_ms":"2015-02-22T18:09:27.000Z","received_at":"2015-02-22T18:10:09Z","loc":[-6.27266,53.36738],"fields":{}}}]
