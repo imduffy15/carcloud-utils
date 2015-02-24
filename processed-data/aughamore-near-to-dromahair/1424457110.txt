@@ -1,0 +1,40 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680119290824753279,
+            "connection_id_str": "680119290824753279",
+            "fields": {
+                "GPS_SPEED": {
+                    "b64_value": "AAAAAA=="
+                },
+                "MDI_OBD_MILEAGE": {
+                    "b64_value": "AAAUDA=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "MTowOzE7MjAx"
+                },
+                "ODO_FULL": {
+                    "b64_value": "AAATbw=="
+                },
+                "ODO_FULL_METER": {
+                    "b64_value": "AEvrbQ=="
+                }
+            },
+            "id": 680119469829259391,
+            "id_str": "680119469829259391",
+            "index": 1,
+            "loc": [
+                -8.45132,
+                54.23965
+            ],
+            "received_at": "2015-02-20T18:31:50Z",
+            "recorded_at": "2015-02-20T11:35:06Z",
+            "recorded_at_ms": "2015-02-20T11:35:06.000Z"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "presence"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "id": 680000496823435391,
+            "id_str": "680000496823435391",
+            "reason": "idle_out",
+            "time": "2015-02-20T10:39:05Z",
+            "type": "connect"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "////Kg=="
+                },
+                "BEHAVE_ACC_X_END": {
+                    "b64_value": "////6g=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "////nA=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "AAAAvA=="
+                },
+                "BEHAVE_ACC_Y_END": {
+                    "b64_value": "AAAArQ=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "AAABJQ=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///7vQ=="
+                },
+                "BEHAVE_ACC_Z_END": {
+                    "b64_value": "///8Ag=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///78g=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAAKrQ=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AADkwA=="
+                },
+                "BEHAVE_GPS_HEADING_END": {
+                    "b64_value": "AAE+tg=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AAExeA=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AACBmg=="
+                },
+                "BEHAVE_GPS_SPEED_END": {
+                    "b64_value": "AACBtA=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AAB+Gw=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAAAew=="
+                }
+            },
+            "id": 680004249676939391,
+            "id_str": "680004249676939391",
+            "index": 651,
+            "loc": [
+                -8.31099,
+                54.22821
+            ],
+            "received_at": "2015-02-20T10:53:59Z",
+            "recorded_at": "2015-02-20T10:51:57Z",
+            "recorded_at_ms": "2015-02-20T10:51:57.000Z"
+        }
+    }
+]

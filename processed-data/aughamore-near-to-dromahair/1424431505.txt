@@ -1,0 +1,18 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "presence"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680012065166852226,
+            "connection_id_str": "680012065166852226",
+            "id": 680012072838234239,
+            "id_str": "680012072838234239",
+            "reason": "ppp_lost",
+            "time": "2015-02-20T11:25:05Z",
+            "type": "connect"
+        }
+    }
+]

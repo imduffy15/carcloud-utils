@@ -1,0 +1,86 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680007916660457593,
+            "connection_id_str": "680007916660457593",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABRjA=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAMg=="
+                }
+            },
+            "id": 680009157801148543,
+            "id_str": "680009157801148543",
+            "index": 155,
+            "loc": [
+                -8.33989,
+                54.21927
+            ],
+            "received_at": "2015-02-20T11:13:30Z",
+            "recorded_at": "2015-02-20T11:12:58Z",
+            "recorded_at_ms": "2015-02-20T11:12:58.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680007916660457593,
+            "connection_id_str": "680007916660457593",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABhmw=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAASg=="
+                }
+            },
+            "id": 680009157796970623,
+            "id_str": "680009157796970623",
+            "index": 152,
+            "loc": [
+                -8.33444,
+                54.22157
+            ],
+            "received_at": "2015-02-20T11:13:30Z",
+            "recorded_at": "2015-02-20T11:12:35Z",
+            "recorded_at_ms": "2015-02-20T11:12:35.001Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680007916660457593,
+            "connection_id_str": "680007916660457593",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABREg=="
+                }
+            },
+            "id": 680009157805342847,
+            "id_str": "680009157805342847",
+            "index": 158,
+            "loc": [
+                -8.33999,
+                54.21915
+            ],
+            "received_at": "2015-02-20T11:13:30Z",
+            "recorded_at": "2015-02-20T11:12:59Z",
+            "recorded_at_ms": "2015-02-20T11:12:59.000Z"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680012065166852226,
+            "connection_id_str": "680012065166852226",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAAP2A=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAAA=="
+                }
+            },
+            "id": 680013163281776767,
+            "id_str": "680013163281776767",
+            "index": 318,
+            "loc": [
+                -8.45128,
+                54.23965
+            ],
+            "received_at": "2015-02-20T11:29:25Z",
+            "recorded_at": "2015-02-20T11:29:02Z",
+            "recorded_at_ms": "2015-02-20T11:29:02.000Z"
+        }
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABQew=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAASA=="
+                }
+            },
+            "id": 680002217314353279,
+            "id_str": "680002217314353279",
+            "index": 326,
+            "loc": [
+                -8.40229,
+                54.23135
+            ],
+            "received_at": "2015-02-20T10:45:55Z",
+            "recorded_at": "2015-02-20T10:44:31Z",
+            "recorded_at_ms": "2015-02-20T10:44:31.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABQdg=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAASg=="
+                }
+            },
+            "id": 680002217318547583,
+            "id_str": "680002217318547583",
+            "index": 329,
+            "loc": [
+                -8.40229,
+                54.23135
+            ],
+            "received_at": "2015-02-20T10:45:55Z",
+            "recorded_at": "2015-02-20T10:44:31Z",
+            "recorded_at_ms": "2015-02-20T10:44:31.001Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "fields": {},
+            "id": 680002217318563967,
+            "id_str": "680002217318563967",
+            "index": 332,
+            "loc": [
+                -8.40242,
+                54.23119
+            ],
+            "received_at": "2015-02-20T10:45:55Z",
+            "recorded_at": "2015-02-20T10:44:32Z",
+            "recorded_at_ms": "2015-02-20T10:44:32.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABA+Q=="
+                },
+                "GPS_PDOP": {
+                    "b64_value": "AAAAAg=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAATg=="
+                }
+            },
+            "id": 680002217322741887,
+            "id_str": "680002217322741887",
+            "index": 333,
+            "loc": [
+                -8.40305,
+                54.22582
+            ],
+            "received_at": "2015-02-20T10:45:55Z",
+            "recorded_at": "2015-02-20T10:45:01Z",
+            "recorded_at_ms": "2015-02-20T10:45:01.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 680000490313875586,
+            "connection_id_str": "680000490313875586",
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABAzg=="
+                }
+            },
+            "id": 680002217322758271,
+            "id_str": "680002217322758271",
+            "index": 337,
+            "loc": [
+                -8.40305,
+                54.22582
+            ],
+            "received_at": "2015-02-20T10:45:55Z",
+            "recorded_at": "2015-02-20T10:45:01Z",
+            "recorded_at_ms": "2015-02-20T10:45:01.001Z"
+        }
+    }
+]
