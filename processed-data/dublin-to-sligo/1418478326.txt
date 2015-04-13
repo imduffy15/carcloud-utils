@@ -1,0 +1,94 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABsCw=="
+                }
+            },
+            "id": 655042634296852607,
+            "id_str": "655042634296852607",
+            "index": 578,
+            "loc": [
+                -6.92661,
+                53.42569
+            ],
+            "received_at": "2014-12-13T13:45:19Z",
+            "recorded_at": "2014-12-13T13:43:23Z",
+            "recorded_at_ms": "2014-12-13T13:43:23.001Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {},
+            "id": 655042634296868991,
+            "id_str": "655042634296868991",
+            "index": 580,
+            "loc": [
+                -6.92711,
+                53.42572
+            ],
+            "received_at": "2014-12-13T13:45:19Z",
+            "recorded_at": "2014-12-13T13:43:24Z",
+            "recorded_at_ms": "2014-12-13T13:43:24.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABnXQ=="
+                }
+            },
+            "id": 655042634301046911,
+            "id_str": "655042634301046911",
+            "index": 581,
+            "loc": [
+                -6.97157,
+                53.42511
+            ],
+            "received_at": "2014-12-13T13:45:19Z",
+            "recorded_at": "2014-12-13T13:44:53Z",
+            "recorded_at_ms": "2014-12-13T13:44:53.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {},
+            "id": 655042634305241215,
+            "id_str": "655042634305241215",
+            "index": 583,
+            "loc": [
+                -6.97207,
+                53.42509
+            ],
+            "received_at": "2014-12-13T13:45:19Z",
+            "recorded_at": "2014-12-13T13:44:54Z",
+            "recorded_at_ms": "2014-12-13T13:44:54.000Z"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB9mA=="
+                }
+            },
+            "id": 655063467002167423,
+            "id_str": "655063467002167423",
+            "index": 560,
+            "loc": [
+                -7.96813,
+                53.91255
+            ],
+            "received_at": "2014-12-13T15:08:06Z",
+            "recorded_at": "2014-12-13T15:06:37Z",
+            "recorded_at_ms": "2014-12-13T15:06:37.000Z"
+        }
+    }
+]

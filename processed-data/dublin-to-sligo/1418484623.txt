@@ -1,0 +1,80 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB7lQ=="
+                }
+            },
+            "id": 655069044906393727,
+            "id_str": "655069044906393727",
+            "index": 887,
+            "loc": [
+                -8.3338,
+                54.0225
+            ],
+            "received_at": "2014-12-13T15:30:16Z",
+            "recorded_at": "2014-12-13T15:29:18Z",
+            "recorded_at_ms": "2014-12-13T15:29:18.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AACKUg=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAYA=="
+                }
+            },
+            "id": 655069044906410111,
+            "id_str": "655069044906410111",
+            "index": 889,
+            "loc": [
+                -8.33889,
+                54.02899
+            ],
+            "received_at": "2014-12-13T15:30:16Z",
+            "recorded_at": "2014-12-13T15:29:48Z",
+            "recorded_at_ms": "2014-12-13T15:29:48.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AACKnw=="
+                }
+            },
+            "id": 655069044910588031,
+            "id_str": "655069044910588031",
+            "index": 892,
+            "loc": [
+                -8.33893,
+                54.02923
+            ],
+            "received_at": "2014-12-13T15:30:16Z",
+            "recorded_at": "2014-12-13T15:29:49Z",
+            "recorded_at_ms": "2014-12-13T15:29:49.000Z"
+        }
+    }
+]

@@ -1,0 +1,369 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB4IA=="
+                }
+            },
+            "id": 655064989417078911,
+            "id_str": "655064989417078911",
+            "index": 594,
+            "loc": [
+                -8.07229,
+                53.94423
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:12:28Z",
+            "recorded_at_ms": "2014-12-13T15:12:28.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "////Nw=="
+                },
+                "BEHAVE_ACC_X_END": {
+                    "b64_value": "////OQ=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "////IQ=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "////zQ=="
+                },
+                "BEHAVE_ACC_Y_END": {
+                    "b64_value": "////zQ=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "////uQ=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///7/w=="
+                },
+                "BEHAVE_ACC_Z_END": {
+                    "b64_value": "///74w=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///75g=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAAMwg=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AASg9g=="
+                },
+                "BEHAVE_GPS_HEADING_END": {
+                    "b64_value": "AARqtA=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AASOhg=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AABK6A=="
+                },
+                "BEHAVE_GPS_SPEED_END": {
+                    "b64_value": "AAAQvA=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AAAriQ=="
+                },
+                "BEHAVE_ID": {
+                    "b64_value": "AAAACg=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAABhw=="
+                }
+            },
+            "id": 655064989417095295,
+            "id_str": "655064989417095295",
+            "index": 596,
+            "loc": [
+                -8.07475,
+                53.94529
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:12:44Z",
+            "recorded_at_ms": "2014-12-13T15:12:44.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABnMA=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAGw=="
+                }
+            },
+            "id": 655064989421273215,
+            "id_str": "655064989421273215",
+            "index": 615,
+            "loc": [
+                -8.079,
+                53.94639
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:13:18Z",
+            "recorded_at_ms": "2014-12-13T15:13:18.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABhuA=="
+                }
+            },
+            "id": 655064989425467519,
+            "id_str": "655064989425467519",
+            "index": 618,
+            "loc": [
+                -8.07911,
+                53.94638
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:13:19Z",
+            "recorded_at_ms": "2014-12-13T15:13:19.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "////6g=="
+                },
+                "BEHAVE_ACC_X_END": {
+                    "b64_value": "////8g=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "////1g=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "AAAAtA=="
+                },
+                "BEHAVE_ACC_Y_END": {
+                    "b64_value": "AAAAsQ=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "AAAA8A=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///79A=="
+                },
+                "BEHAVE_ACC_Z_END": {
+                    "b64_value": "///7+Q=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///77w=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAAGgg=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AAPuDg=="
+                },
+                "BEHAVE_GPS_HEADING_END": {
+                    "b64_value": "AASFHA=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AAQYog=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AAA/Rg=="
+                },
+                "BEHAVE_GPS_SPEED_END": {
+                    "b64_value": "AABAMA=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AABAXg=="
+                },
+                "BEHAVE_ID": {
+                    "b64_value": "AAAADQ=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAABiA=="
+                }
+            },
+            "id": 655064989429661823,
+            "id_str": "655064989429661823",
+            "index": 620,
+            "loc": [
+                -8.07957,
+                53.94628
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:13:23Z",
+            "recorded_at_ms": "2014-12-13T15:13:23.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "AAAAfQ=="
+                },
+                "BEHAVE_ACC_X_END": {
+                    "b64_value": "AAAAsw=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "AAAAvw=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "////Rw=="
+                },
+                "BEHAVE_ACC_Y_END": {
+                    "b64_value": "////UA=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "////Dg=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///8Fw=="
+                },
+                "BEHAVE_ACC_Z_END": {
+                    "b64_value": "///79g=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///7/w=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAAKag=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AAQ6ig=="
+                },
+                "BEHAVE_GPS_HEADING_END": {
+                    "b64_value": "AAProg=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AAQRBA=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AABNfw=="
+                },
+                "BEHAVE_GPS_SPEED_END": {
+                    "b64_value": "AABkxw=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AABV4w=="
+                },
+                "BEHAVE_ID": {
+                    "b64_value": "AAAADA=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAABiQ=="
+                }
+            },
+            "id": 655064989429678207,
+            "id_str": "655064989429678207",
+            "index": 639,
+            "loc": [
+                -8.08023,
+                53.9464
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:13:28Z",
+            "recorded_at_ms": "2014-12-13T15:13:28.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "AAAAtg=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "AAAAyQ=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "////DQ=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "////Fg=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///7/g=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///8BA=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAAGgg=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AAQRBA=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AAProg=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AABV4w=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AABkxw=="
+                },
+                "BEHAVE_ID": {
+                    "b64_value": "AAAACw=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAABig=="
+                }
+            },
+            "id": 655064989433856127,
+            "id_str": "655064989433856127",
+            "index": 658,
+            "loc": [
+                -8.08042,
+                53.94638
+            ],
+            "received_at": "2014-12-13T15:14:09Z",
+            "recorded_at": "2014-12-13T15:13:29Z",
+            "recorded_at_ms": "2014-12-13T15:13:29.000Z"
+        }
+    }
+]

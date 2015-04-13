@@ -1,0 +1,30 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABm+w=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAXg=="
+                }
+            },
+            "id": 655066510762442879,
+            "id_str": "655066510762442879",
+            "index": 804,
+            "loc": [
+                -8.13376,
+                53.94908
+            ],
+            "received_at": "2014-12-13T15:20:12Z",
+            "recorded_at": "2014-12-13T15:18:00Z",
+            "recorded_at_ms": "2014-12-13T15:18:00.000Z"
+        }
+    }
+]

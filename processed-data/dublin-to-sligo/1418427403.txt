@@ -1,0 +1,17 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "presence"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654827961689571449,
+            "id": 654829049587171455,
+            "id_str": "654829049587171455",
+            "reason": "socket_closed",
+            "time": "2014-12-12T23:36:37Z",
+            "type": "disconnect"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB2dA=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAYA=="
+                }
+            },
+            "id": 655049221690359935,
+            "id_str": "655049221690359935",
+            "index": 763,
+            "loc": [
+                -7.48569,
+                53.63543
+            ],
+            "received_at": "2014-12-13T14:11:30Z",
+            "recorded_at": "2014-12-13T14:10:30Z",
+            "recorded_at_ms": "2014-12-13T14:10:30.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {},
+            "id": 655049221694570623,
+            "id_str": "655049221694570623",
+            "index": 768,
+            "loc": [
+                -7.48603,
+                53.63557
+            ],
+            "received_at": "2014-12-13T14:11:30Z",
+            "recorded_at": "2014-12-13T14:10:31Z",
+            "recorded_at_ms": "2014-12-13T14:10:31.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB2eg=="
+                }
+            },
+            "id": 655049221690392703,
+            "id_str": "655049221690392703",
+            "index": 766,
+            "loc": [
+                -7.48569,
+                53.63543
+            ],
+            "received_at": "2014-12-13T14:11:30Z",
+            "recorded_at": "2014-12-13T14:10:30Z",
+            "recorded_at_ms": "2014-12-13T14:10:30.001Z"
+        }
+    }
+]

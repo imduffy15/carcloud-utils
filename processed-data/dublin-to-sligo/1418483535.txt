@@ -1,0 +1,92 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABfxQ=="
+                },
+                "GPS_SPEED": {
+                    "b64_value": "AADF/w=="
+                },
+                "MDI_OBD_RPM": {
+                    "b64_value": "AAALcw=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAXQ=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "Mzow"
+                }
+            },
+            "id": 655064480996130943,
+            "id_str": "655064480996130943",
+            "index": 580,
+            "loc": [
+                -8.03538,
+                53.93431
+            ],
+            "received_at": "2014-12-13T15:12:08Z",
+            "recorded_at": "2014-12-13T15:10:24Z",
+            "recorded_at_ms": "2014-12-13T15:10:24.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABzUw=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAWg=="
+                }
+            },
+            "id": 655064481000325247,
+            "id_str": "655064481000325247",
+            "index": 586,
+            "loc": [
+                -8.04746,
+                53.93429
+            ],
+            "received_at": "2014-12-13T15:12:08Z",
+            "recorded_at": "2014-12-13T15:10:57Z",
+            "recorded_at_ms": "2014-12-13T15:10:57.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AABzbA=="
+                }
+            },
+            "id": 655064481000341631,
+            "id_str": "655064481000341631",
+            "index": 589,
+            "loc": [
+                -8.0478,
+                53.93439
+            ],
+            "received_at": "2014-12-13T15:12:08Z",
+            "recorded_at": "2014-12-13T15:10:58Z",
+            "recorded_at_ms": "2014-12-13T15:10:58.000Z"
+        }
+    }
+]

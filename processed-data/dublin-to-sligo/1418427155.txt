@@ -1,0 +1,25 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "message"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "b64_payload": "gqpjb21wb25lbnRzlIKkbmFtZaRjb3Jlp3ZlcnNpb265TVVOSUNfQzRET05HTEUtMy4wMTA0MTAwMYKkbmFtZdoAIGNvbS5tZGkuYXBwbGljYXRpb25zLmNyYXNoc2Vuc29yp3ZlcnNpb26kMS4xMoKkbmFtZdoAIGNvbS5tZGkuYXBwbGljYXRpb25zLmVhc3ljb25uZWN0p3ZlcnNpb26jMS45gqRuYW1l2gAkY29tLm1kaS5hcHBsaWNhdGlvbnMuc2Vuc29yc3JlY29yZGVyp3ZlcnNpb26nMS4wMDAwMKF2AQ==",
+            "channel": "com.mdi.services.updateManager",
+            "connection_id": 654827961689571449,
+            "id": 654828007130660991,
+            "id_str": "654828007130660991",
+            "parent_id": 654827995411775615,
+            "parent_id_str": "654827995411775615",
+            "received_at": "2014-12-12T23:32:28Z",
+            "recipient": "@@server@@",
+            "recorded_at": "2014-12-12T23:32:35Z",
+            "sender": "356363050331521",
+            "thread_id": null,
+            "thread_id_str": "",
+            "type": "message"
+        }
+    }
+]

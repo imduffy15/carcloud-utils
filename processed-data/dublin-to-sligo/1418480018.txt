@@ -1,0 +1,73 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB72w=="
+                }
+            },
+            "id": 655049729696071807,
+            "id_str": "655049729696071807",
+            "index": 772,
+            "loc": [
+                -7.51194,
+                53.65033
+            ],
+            "received_at": "2014-12-13T14:13:31Z",
+            "recorded_at": "2014-12-13T14:12:00Z",
+            "recorded_at_ms": "2014-12-13T14:12:00.001Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB8og=="
+                },
+                "GPS_SPEED": {
+                    "b64_value": "AACdvw=="
+                },
+                "MDI_OBD_RPM": {
+                    "b64_value": "AAALSQ=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAARw=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "Mzow"
+                },
+                "MDI_RPM_AVERAGE": {
+                    "b64_value": "AAALEQ=="
+                },
+                "MDI_RPM_MAX": {
+                    "b64_value": "AAAPfQ=="
+                },
+                "MDI_RPM_MIN": {
+                    "b64_value": "AAADSQ=="
+                }
+            },
+            "id": 655049729700266111,
+            "id_str": "655049729700266111",
+            "index": 774,
+            "loc": [
+                -7.51632,
+                53.65322
+            ],
+            "received_at": "2014-12-13T14:13:31Z",
+            "recorded_at": "2014-12-13T14:12:17Z",
+            "recorded_at_ms": "2014-12-13T14:12:17.000Z"
+        }
+    }
+]

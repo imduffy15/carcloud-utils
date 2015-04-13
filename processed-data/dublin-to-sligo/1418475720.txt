@@ -1,0 +1,25 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "message"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "b64_payload": "Y2hlY2svMy81ZTJlMWYxMjg4MGEzOTY5NGNiOTlmZDc2ZWYzY2E2Zi9wYWNrZWREaWZmZXJlbmNlLmYycDNlbmMuZWU=",
+            "channel": "com.mdi.services.instantFixII",
+            "connection_id": 655031533840629881,
+            "id": 655031705320554623,
+            "id_str": "655031705320554623",
+            "parent_id": null,
+            "parent_id_str": "",
+            "received_at": "2014-12-13T13:01:54Z",
+            "recipient": "@@server@@",
+            "recorded_at": "2014-12-13T13:02:01Z",
+            "sender": "356363050331521",
+            "thread_id": null,
+            "thread_id_str": "",
+            "type": "message"
+        }
+    }
+]

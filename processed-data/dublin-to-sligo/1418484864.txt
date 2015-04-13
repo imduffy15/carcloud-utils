@@ -1,0 +1,76 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB+ZQ=="
+                }
+            },
+            "id": 655070055444283519,
+            "id_str": "655070055444283519",
+            "index": 901,
+            "loc": [
+                -8.36158,
+                54.06781
+            ],
+            "received_at": "2014-12-13T15:34:17Z",
+            "recorded_at": "2014-12-13T15:32:49Z",
+            "recorded_at_ms": "2014-12-13T15:32:49.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "GPS_DIR": {
+                    "b64_value": "AAB+cA=="
+                },
+                "GPS_PDOP": {
+                    "b64_value": "AAAAAQ=="
+                },
+                "GPS_SPEED": {
+                    "b64_value": "AACtfA=="
+                },
+                "MDI_OBD_RPM": {
+                    "b64_value": "AAAJ3Q=="
+                },
+                "MDI_OBD_SPEED": {
+                    "b64_value": "AAAAUA=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "Mzow"
+                },
+                "MDI_RPM_AVERAGE": {
+                    "b64_value": "AAALcQ=="
+                },
+                "MDI_RPM_MAX": {
+                    "b64_value": "AAANCg=="
+                },
+                "MDI_RPM_MIN": {
+                    "b64_value": "AAAG9g=="
+                }
+            },
+            "id": 655070055448445055,
+            "id_str": "655070055448445055",
+            "index": 903,
+            "loc": [
+                -8.37407,
+                54.07807
+            ],
+            "received_at": "2014-12-13T15:34:17Z",
+            "recorded_at": "2014-12-13T15:33:42Z",
+            "recorded_at_ms": "2014-12-13T15:33:42.000Z"
+        }
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654976865424900226,
+            "fields": {
+                "MDI_DRIVING_JOURNEY": {
+                    "b64_value": "AAAAAA=="
+                },
+                "MDI_EXT_BATT_VOLTAGE": {
+                    "b64_value": "AAA1+A=="
+                },
+                "MDI_IDLE_JOURNEY": {
+                    "b64_value": "AAAAAA=="
+                },
+                "MDI_JOURNEY_TIME": {
+                    "b64_value": "AAAAAA=="
+                },
+                "MDI_ODO_JOURNEY": {
+                    "b64_value": "AAAAAA=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "NTox"
+                },
+                "MDI_VEHICLE_STATE": {
+                    "b64_value": "MToy"
+                }
+            },
+            "id": 654977580692144255,
+            "id_str": "654977580692144255",
+            "index": 13,
+            "loc": [
+                -6.25701,
+                53.38368
+            ],
+            "received_at": "2014-12-13T09:26:49Z",
+            "recorded_at": "2014-12-13T09:24:57Z",
+            "recorded_at_ms": "2014-12-13T09:24:57.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654976865424900226,
+            "fields": {
+                "MDI_RECORD_REASON": {
+                    "b64_value": "Njox"
+                }
+            },
+            "id": 654977580696338559,
+            "id_str": "654977580696338559",
+            "index": 21,
+            "loc": [
+                -6.25701,
+                53.38368
+            ],
+            "received_at": "2014-12-13T09:26:49Z",
+            "recorded_at": "2014-12-13T09:24:57Z",
+            "recorded_at_ms": "2014-12-13T09:24:57.001Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654976865424900226,
+            "fields": {},
+            "id": 654977580696354943,
+            "id_str": "654977580696354943",
+            "index": 23,
+            "loc": [
+                -6.25701,
+                53.38368
+            ],
+            "received_at": "2014-12-13T09:26:49Z",
+            "recorded_at": "2014-12-13T09:25:46Z",
+            "recorded_at_ms": "2014-12-13T09:25:46.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654976865424900226,
+            "fields": {},
+            "id": 654977580700532863,
+            "id_str": "654977580700532863",
+            "index": 24,
+            "loc": [
+                -6.25701,
+                53.38368
+            ],
+            "received_at": "2014-12-13T09:26:49Z",
+            "recorded_at": "2014-12-13T09:25:47Z",
+            "recorded_at_ms": "2014-12-13T09:25:47.000Z"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654976865424900226,
+            "fields": {
+                "MDI_EXT_BATT_LOW": {
+                    "b64_value": "AA=="
+                },
+                "MDI_EXT_BATT_VOLTAGE": {
+                    "b64_value": "AAA17g=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "MTI6MA=="
+                }
+            },
+            "id": 654977580704727167,
+            "id_str": "654977580704727167",
+            "index": 25,
+            "loc": [
+                -6.25701,
+                53.38368
+            ],
+            "received_at": "2014-12-13T09:26:49Z",
+            "recorded_at": "2014-12-13T09:25:51Z",
+            "recorded_at_ms": "2014-12-13T09:25:51.000Z"
+        }
+    }
+]

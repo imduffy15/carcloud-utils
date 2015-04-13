@@ -1,0 +1,27 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655031533840629881,
+            "fields": {
+                "MDI_CRASH_DETECTED": {
+                    "b64_value": "MjUwOjU="
+                }
+            },
+            "id": 655034009302073471,
+            "id_str": "655034009302073471",
+            "index": 275,
+            "loc": [
+                -6.26456,
+                53.40104
+            ],
+            "received_at": "2014-12-13T13:11:03Z",
+            "recorded_at": "2014-12-13T13:10:49Z",
+            "recorded_at_ms": "2014-12-13T13:10:49.000Z"
+        }
+    }
+]

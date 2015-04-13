@@ -1,0 +1,78 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 655058203205173375,
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "////tQ=="
+                },
+                "BEHAVE_ACC_X_END": {
+                    "b64_value": "////uQ=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "////uQ=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "AAAAtA=="
+                },
+                "BEHAVE_ACC_Y_END": {
+                    "b64_value": "AAAAsw=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "AAAAvA=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///8GA=="
+                },
+                "BEHAVE_ACC_Z_END": {
+                    "b64_value": "///7+Q=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///8FA=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAAIVQ=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AABdyg=="
+                },
+                "BEHAVE_GPS_HEADING_END": {
+                    "b64_value": "AACD/g=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AABw5A=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AACbAQ=="
+                },
+                "BEHAVE_GPS_SPEED_END": {
+                    "b64_value": "AACREA=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AACV4g=="
+                },
+                "BEHAVE_ID": {
+                    "b64_value": "AAAADQ=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAABmQ=="
+                }
+            },
+            "id": 655073608334311551,
+            "id_str": "655073608334311551",
+            "index": 1219,
+            "loc": [
+                -8.48019,
+                54.24319
+            ],
+            "received_at": "2014-12-13T15:48:24Z",
+            "recorded_at": "2014-12-13T15:48:09Z",
+            "recorded_at_ms": "2014-12-13T15:48:09.000Z"
+        }
+    }
+]

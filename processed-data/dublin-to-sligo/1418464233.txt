@@ -1,0 +1,33 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654980767557877890,
+            "fields": {
+                "MDI_EXT_BATT_LOW": {
+                    "b64_value": "AQ=="
+                },
+                "MDI_EXT_BATT_VOLTAGE": {
+                    "b64_value": "AAAtsg=="
+                },
+                "MDI_RECORD_REASON": {
+                    "b64_value": "MTI6MQ=="
+                }
+            },
+            "id": 654983524180295807,
+            "id_str": "654983524180295807",
+            "index": 379,
+            "loc": [
+                -6.25686,
+                53.38365
+            ],
+            "received_at": "2014-12-13T09:50:26Z",
+            "recorded_at": "2014-12-13T09:48:45Z",
+            "recorded_at_ms": "2014-12-13T09:48:45.000Z"
+        }
+    }
+]

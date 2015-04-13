@@ -1,0 +1,75 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "track"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "connection_id": 654980767557877890,
+            "fields": {
+                "BEHAVE_ACC_X_BEGIN": {
+                    "b64_value": "////MQ=="
+                },
+                "BEHAVE_ACC_X_END": {
+                    "b64_value": "////Pw=="
+                },
+                "BEHAVE_ACC_X_PEAK": {
+                    "b64_value": "///+fg=="
+                },
+                "BEHAVE_ACC_Y_BEGIN": {
+                    "b64_value": "////5w=="
+                },
+                "BEHAVE_ACC_Y_END": {
+                    "b64_value": "////4w=="
+                },
+                "BEHAVE_ACC_Y_PEAK": {
+                    "b64_value": "////wA=="
+                },
+                "BEHAVE_ACC_Z_BEGIN": {
+                    "b64_value": "///78w=="
+                },
+                "BEHAVE_ACC_Z_END": {
+                    "b64_value": "///71w=="
+                },
+                "BEHAVE_ACC_Z_PEAK": {
+                    "b64_value": "///7+w=="
+                },
+                "BEHAVE_ELAPSED": {
+                    "b64_value": "AAANig=="
+                },
+                "BEHAVE_GPS_HEADING_BEGIN": {
+                    "b64_value": "AAQWkA=="
+                },
+                "BEHAVE_GPS_HEADING_END": {
+                    "b64_value": "AAPRng=="
+                },
+                "BEHAVE_GPS_HEADING_PEAK": {
+                    "b64_value": "AAPRng=="
+                },
+                "BEHAVE_GPS_SPEED_BEGIN": {
+                    "b64_value": "AAA8Hg=="
+                },
+                "BEHAVE_GPS_SPEED_END": {
+                    "b64_value": "AAAAAA=="
+                },
+                "BEHAVE_GPS_SPEED_PEAK": {
+                    "b64_value": "AAAQZw=="
+                },
+                "BEHAVE_UNIQUE_ID": {
+                    "b64_value": "AAABVw=="
+                }
+            },
+            "id": 654981502009868415,
+            "id_str": "654981502009868415",
+            "index": 117,
+            "loc": [
+                -6.25979,
+                53.38485
+            ],
+            "received_at": "2014-12-13T09:42:24Z",
+            "recorded_at": "2014-12-13T09:41:53Z",
+            "recorded_at_ms": "2014-12-13T09:41:53.000Z"
+        }
+    }
+]

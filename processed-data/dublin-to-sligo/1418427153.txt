@@ -1,0 +1,71 @@
+[
+    {
+        "meta": {
+            "account": "municio",
+            "event": "message"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "b64_payload": "gtoAHmNvbS5tZGkuc2VydmljZXMudXBkYXRlTWFuYWdlcs0C59oAJWNvbS5tZGkuc2VydmljZXMuY29uZmlndXJhdGlvbk1hbmFnZXLNAug=",
+            "channel": "com.mdi.dynamic_channel_configuration",
+            "connection_id": 654827961689571449,
+            "id": 654827999689965695,
+            "id_str": "654827999689965695",
+            "parent_id": 654827999681577087,
+            "parent_id_str": "654827999681577087",
+            "received_at": "2014-12-12T23:32:26Z",
+            "recipient": "356363050331521",
+            "recorded_at": "2014-12-12T23:32:26Z",
+            "sender": "@@server@@",
+            "thread_id": null,
+            "thread_id_str": "",
+            "type": "message"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "message"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "b64_payload": "g6hzZXJ2aWNlc5PaACVjb20ubWRpLnNlcnZpY2VzLmNvbmZpZ3VyYXRpb25NYW5hZ2VyvWNvbS5tZGkuc2VydmljZXMuaW5zdGFudEZpeElJv2NvbS5tZGkuc2VydmljZXMuZHJpdmVyQmVoYXZpb3KndmVyc2lvbgGib3CsZ2V0c2VydmljZWlk",
+            "channel": "com.mdi.dynamic_channel_configuration",
+            "connection_id": 654827961689571449,
+            "id": 654828000088424575,
+            "id_str": "654828000088424575",
+            "parent_id": null,
+            "parent_id_str": "",
+            "received_at": "2014-12-12T23:32:26Z",
+            "recipient": "@@server@@",
+            "recorded_at": "2014-12-12T23:32:34Z",
+            "sender": "356363050331521",
+            "thread_id": null,
+            "thread_id_str": "",
+            "type": "message"
+        }
+    },
+    {
+        "meta": {
+            "account": "municio",
+            "event": "message"
+        },
+        "payload": {
+            "asset": "356363050331521",
+            "b64_payload": "g9oAH2NvbS5tZGkuc2VydmljZXMuZHJpdmVyQmVoYXZpb3LNAuraAB1jb20ubWRpLnNlcnZpY2VzLmluc3RhbnRGaXhJSc0C6doAJWNvbS5tZGkuc2VydmljZXMuY29uZmlndXJhdGlvbk1hbmFnZXLNAug=",
+            "channel": "com.mdi.dynamic_channel_configuration",
+            "connection_id": 654827961689571449,
+            "id": 654828000101007487,
+            "id_str": "654828000101007487",
+            "parent_id": 654828000088424575,
+            "parent_id_str": "654828000088424575",
+            "received_at": "2014-12-12T23:32:26Z",
+            "recipient": "356363050331521",
+            "recorded_at": "2014-12-12T23:32:26Z",
+            "sender": "@@server@@",
+            "thread_id": null,
+            "thread_id_str": "",
+            "type": "message"
+        }
+    }
+]
